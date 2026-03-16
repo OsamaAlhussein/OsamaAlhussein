@@ -41,6 +41,5 @@ class Osama:
     def __init__(self):
         self.name = "Osama Alhussein"
         self.role = "Beginner Developer & Content Creator"
-        self.learning = ["Python", "Web Development", "Programming"]
         self.platform = "Instagram"
-        self.goal = "Become a professional software developer"
+       
