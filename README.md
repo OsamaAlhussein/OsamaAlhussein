@@ -31,7 +31,7 @@
 
 ## 🛠️ Tools & Technologies
 
-![c++] 
+ 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code)
 
 ---
