@@ -1,4 +1,4 @@
-<div align="center" width="50">
+<div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> 
 <br>
@@ -7,7 +7,7 @@
 <br>
 
 <h1>Hi 👋 I'm Osama Alhussein</h1>
-<h3>Beginner Programmer 💻 | Content Creator 📱</h3>
+<h3>C++ Student 🚀 | Aspiring Software Developer 💻 | Content Creator 📱</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange)
 
@@ -21,25 +21,35 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 I'm a **Beginner Programmer**
-- 📱 I create **programming content on Instagram**
-- 🌱 Currently learning **Programming & Software Development**
-- 🎯 My goal is to **become a professional developer**
-- 💬 Ask me about **Programming, Tech, or Content Creation**
+- 👨‍💻 I'm **Osama Alhussein**, a passionate learner in the world of code.
+- 🌱 Currently diving deep into **Computer Science Basics & C++**.
+- 📱 I share my learning journey and **programming content on Instagram**.
+- 🎯 My goal is to build a solid foundation in **Software Development**.
+- 💬 Ask me about **C++ basics, Tech, or my journey as a beginner**.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
- 
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-```python
-class Osama:
-    def __init__(self):
-        self.name = "Osama Alhussein"
-        self.role = "Beginner Developer & Content Creator"
-        self.platform = "Instagram"
-       
+### ⌨️ My Current Status (in C++)
+
+```cpp
+#include <iostream>
+#include <string>
+
+class Developer {
+public:
+    std::string name = "Osama Alhussein";
+    std::string focus = "C++ & Programming Fundamentals";
+    bool isLearning = true;
+
+    void greeting() {
+        std::cout << "Hello World! I'm " << name << " and I'm building my future." << std::endl;
+    }
+};
