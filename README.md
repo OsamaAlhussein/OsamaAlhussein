@@ -41,11 +41,12 @@
 
 ```cpp
 #include <iostream>
+using namespace std ;
 
 int main() {
-    std::string name = "Osama Alhussein";
-    std::string status = "Learning C++ & Creating Content";
+    string name = "Osama Alhussein";
+    string status = "Learning C++ & Creating Content";
     
-    std::cout << name << " is on his way to success!" << std::endl;
+    cout << name << " I am on my way to success!" << endl;
     return 0;
 }
