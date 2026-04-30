@@ -10,7 +10,7 @@
 <h3>C++ Learner 🚀 | Aspiring Software Developer 💻 | Content Creator 📱</h3>
 
 <!-- هنا عداد الزوار المعدل -->
-![](https://komarev.com/ghpvc/?username=osama.hosen.965&color=orange&style=flat-square&label=Profile+views)
+![](https://komarev.com/ghpvc/?username=OsamaAlhussein&color=orange&style=flat-square&label=Profile+views)
 
 <a href="https://www.instagram.com/osama.hosen.965/">
 <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=flat&logo=instagram&logoColor=white"/>
