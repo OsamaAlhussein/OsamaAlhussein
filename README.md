@@ -9,8 +9,7 @@
 <h1>Hi 👋 I'm Osama Alhussein</h1>
 <h3>C++ Learner 🚀 | Aspiring Software Developer 💻 | Content Creator 📱</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange)
-
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=orange&style=flat-square&label=Profile+views)
 <a href="https://www.instagram.com/osama.hosen.965/">
 <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=flat&logo=instagram&logoColor=white"/>
 </a>
